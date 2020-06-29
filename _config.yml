@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -21,21 +21,21 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 12
   exclude:
     archived: false
     forks: true
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: naveenbanda
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
@@ -51,8 +51,25 @@ topics:
     web_url: https://github.com/topics/css
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
-  - name: Web design
+  - name: Java
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: SpringBoot Framework
+
+  - name: Data Structures & Algorithms
+
+  - name: Higher & Lower Level Design
+
+  - name: Machine Learning
+
+  - name: Python
+
+  - name: C++
+
+  - name: Javascript
+
+  - name: SQL & NOSQL Databases
+
+  - name: System Design & Architecture
+
+  - name: Web Design
+  
